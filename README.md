@@ -7,3 +7,5 @@ Click on the browser screen to start the algorithm.
 If Alert Message pops up, it means that the initial state is not solvable. Click OK to refresh and start with a new random initial state.
 
 Deployment Link: https://m-adil-as.github.io/8-Puzzle
+
+![8 Puzzle](https://github.com/M-Adil-AS/8-Puzzle/assets/115668271/ab5984fc-ffbb-4de3-83cd-9d535e668ac5)
