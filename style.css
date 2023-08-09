@@ -1,0 +1,31 @@
+body{
+    background-color:lightgrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container{
+    position:absolute;
+    margin:auto;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    height:300px;
+    width:300px;
+}
+
+.box{
+    box-sizing: border-box;
+    height:100px;
+    width:100px;
+    border:1px solid black;
+    background-color: #3bb78f;
+    background-image: linear-gradient(315deg, #3bb78f 0%, #0bab64 74%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: xx-large;
+    position: absolute;
+    transition: all 0.3s linear;
+}
